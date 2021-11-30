@@ -1,0 +1,11 @@
+{
+    "vetur.format.options.tabSize": 4,
+    "cSpell.words": [
+        "clsx",
+        "Imegine",
+        "Initialise",
+        "Initialised",
+        "reduxjs",
+        "Dexie",
+    ]
+}
